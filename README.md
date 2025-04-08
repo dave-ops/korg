@@ -1,4 +1,4 @@
 # korg
 The Korg CLI
 
-coming real soon!
+coming April 2025!
