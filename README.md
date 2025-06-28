@@ -1,4 +1,3 @@
 # korg
-The Korg CLI
-
-coming April 2025!
+The Korg AI CLI
+It's a scalpel, not a saws-all
